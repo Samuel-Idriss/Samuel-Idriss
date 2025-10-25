@@ -63,6 +63,8 @@ My focus lies at the intersection of **deep learning and advanced data analysis*
 
 - **Email:** info.sammysl@gmail.com
 - **Email:** 2120246046@mail.nankai.edu.cn
+- **Hugging Face:** [Sammy-Idriss](https://huggingface.co/Sammy-Idriss)
 - **ORCID:** [0009-0005-4264-0801](http://orcid.org/0009-0005-4264-0801)
 - **LinkedIn:** [samuel-idriss-kargbo](https://www.linkedin.com/in/samuel-idriss-kargbo)
+- **X (Twitter):** [@SamuelIdri94427](https://x.com/SamuelIdri94427)
 - **GitHub:** (You are already here!)
