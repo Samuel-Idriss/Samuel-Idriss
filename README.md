@@ -2,7 +2,7 @@
 
 **AI Researcher | Software Engineer | Tech Entrepreneur**
 
-I am a Master of Engineering candidate at **Nankai University** (Tianjin, China) and a Lecturer at the University of Makeni. My professional journey spans academic research, software development, and deep technical study, bridging the gap between theoretical research and real-world application.
+I am a Master of Engineering candidate at **Nankai University** (Tianjin, China) and a Chief Technology Officer at the Innovative Technology, Research and Entrepreneurship (ITRE) Company. My professional journey spans academic research, software development, and deep technical study, bridging the gap between theoretical research and real-world application.
 
 ---
 
