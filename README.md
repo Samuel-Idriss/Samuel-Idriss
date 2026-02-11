@@ -2,7 +2,7 @@
 
 **AI Researcher | Software Engineer | Tech Entrepreneur**
 
-I am a Master of Engineering candidate at **Nankai University** (Tianjin, China) and a Chief Technology Officer at the Innovative Technology, Research and Entrepreneurship (ITRE) Company. My professional journey spans academic research, software development, and deep technical study, bridging the gap between theoretical research and real-world application.
+I am a **MOFCOM Scholar** and Master of Engineering candidate at **Nankai University** (Tianjin, China). My professional journey bridges the gap between theoretical deep learning research and scalable software engineering. As the **Founder & CEO of Prospera Group**, I am dedicated to driving digital transformation and mentoring the next generation of technical talent as a **Research and Teaching Assistant**.
 
 ---
 
@@ -10,10 +10,9 @@ I am a Master of Engineering candidate at **Nankai University** (Tianjin, China)
 
 | Degree/Certificate | Institution | Status |
 | :--- | :--- | :--- |
-| **MEng Software Engineering** | Nankai University, China | Ongoing (Expected Date of Completion - June 2026)<br>⚡ *Thesis: CNN-Based Plant Leaf Disease Detection and Classification Using YOLOv8: A Case Study of Cassava, Rice and Maize for Smallholder Farmers in Sierra Leone* |
-| **BSc Computer Science** | University of Makeni, Sierra Leone | Graduated<br>🎓 *Dissertation: Design and Implementation of an Automated Waste Disposal Management System* |
-| **Certificate in Web Dev & Digital Tech** | Illiquid Computer Institute | Completed |
-| **High School Certificate** (Science Faculty) | Prince of Wales Secondary School | Completed |
+| **MEng Software Engineering** | Nankai University, China | Ongoing (Expected Date of Completion - June 2026)<br>⚡ *Thesis: CNN-Based Plant Leaf Disease Detection and Classification Using YOLOv8* |
+| **BSc Computer Science** | University of Makeni | Graduated (Dec 2023)<br>🎓 *Dissertation: Design and Implementation of an Automated Waste Disposal Management System* |
+| **Certificate in Web Development** | UniMak Workflow Innovation Hub | Completed (Oct 2019) |
 
 ---
 
@@ -21,8 +20,8 @@ I am a Master of Engineering candidate at **Nankai University** (Tianjin, China)
 
 | Role | Organization | Focus |
 | :--- | :--- | :--- |
-| **CEO & Founder** | **Prospera Group** | Technology & Entrepreneurship company providing professional technical training and capacity building. |
-| **Chief Technology Officer** | **ITRE Company** | Leading technical strategy and software engineering initiatives. |
+| **CEO & Founder** | **Prospera Group** | Leading strategic vision and technical direction for scalable software solutions and technical capacity building. |
+| **Research and Teaching Assistant** | **University of Makeni** | Department of Computer Science. Delivering courses, student mentorship, and supporting faculty research. |
 
 ---
 
@@ -35,17 +34,30 @@ My focus lies at the intersection of **Deep Learning** and **Intelligent Systems
 
 ---
 
+## 🌍 Global Impact & Summit Engagement
+
+* **Technology Diplomacy:** Actively contributing to international dialogues on digital governance and open-source ecosystems to foster cross-border innovation.
+* **SDG Alignment:** Leveraging AI and Intelligent Systems to contribute to **Sustainable Development Goal 9** (Industry, Innovation, and Infrastructure) through scalable software.
+* **Open Source Advocacy:** Recognized as an **Evangelism Star** for promoting collaborative technology frameworks that empower developers in emerging economies.
+* **Youth Leadership:** Mentoring the next generation of tech leaders in West Africa, focusing on high-level technical literacy and academic excellence.
+
+---
+
 ## ⭐ Awards & Leadership Recognition
 
 * 🏆 **Evangelism Star Award (2024)**
   * *OpenAtom Foundation (openKylin)*
-  * Recognized as an **Outstanding Contributor** and invited **Guest Speaker** at the 2024 OpenAtom Developer Conference in Wuhan, China.
+  * Recognized as an **Outstanding Contributor** at the OpenAtom Developer Conference and as an invited **Guest Speaker** at the Open Source Technology Academic Conference in Wuhan, China.
 
 * 🥇 **Academic Excellence Award (2022/2023)**
   * *University of Makeni (UniMak)*
-  * Best Performing Student in the Computer Science Department (Year 4) with a **CGPA of 4.71**.
+  * Best Performing Student in Computer Science with a **CGPA of 4.71**.
 
-* 🎨 **Head of Multimedia and Design Team (2022/2023)**
+* 🌟 **Volunteer Service Certificate (2025)**
+  * *Open Source Summit, Beijing*
+  * Recognized for technical support and contributions to the global open-source community.
+
+ * 🎨 **Head of Multimedia and Design Team (2022/2023)**
   * *Computer Science Department - UniMak*
   * Leadership role managing design and multimedia initiatives.
 
@@ -71,17 +83,18 @@ My focus lies at the intersection of **Deep Learning** and **Intelligent Systems
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Financial Sentiment Analysis** | Fine-tuned the **Gemma-7B-IT** Large Language Model to accurately analyze and classify sentiment in financial texts. | `LLM` `Python` `Transformers` |
-| **Plant Disease Classification** | Built a Deep Learning application using **Convolutional Neural Networks (CNNs)** to detect and classify plant leaf diseases with high accuracy. | `Deep Learning` `CNN` `Computer Vision` |
-| **Exercise Counting System** | Developed a real-time AI web application using **MediaPipe** for advanced pose estimation and automated exercise repetition counting. | `Computer Vision` `MediaPipe` `Web App` |
+| **Financial Sentiment Analysis** | Fine-tuned the **Gemma-7B-IT** LLM to accurately analyze and classify sentiment in financial texts. | `LLM` `Python` `Transformers` |
+| **Plant Disease Classification** | Built a Deep Learning application using **CNNs** to detect and classify plant leaf diseases with high accuracy. | `Deep Learning` `CNN` `Computer Vision` |
+| **Exercise Counting System** | Developed a real-time AI web application using **MediaPipe** for pose estimation and automated repetition counting. | `Computer Vision` `MediaPipe` `Web App` |
 
 ---
 
 ## 🛠️ Technical Skills
 
-* **Languages:** Python, C++, JavaScript, SQL
-* **Frameworks & Libraries:** Django, React, Node.js, PyTorch, TensorFlow
-* **Tools:** Git, PostgreSQL, VS Code, Linux
+* **Languages:** Python, SQL, C++, JavaScript
+* **AI & Deep Learning:** PyTorch, TensorFlow, CNNs, LSTMs, Transformers, Bayesian Optimization
+* **Data Science:** NumPy, Pandas, Scikit-learn, Feature Engineering
+* **Tools:** Git, PostgreSQL, VS Code
 
 ---
 
